@@ -15,6 +15,6 @@ This visualization includes the tweets categorized into different hashtags and t
 - Highlighting: In hashtag charts (bar chart and stacked area chart), the user can hover over the bars to highlight the hashtags.
 
 
-![Bar chart of tweet tweet hashtags](./screenshots/S1.png)
-![Stacked area chart of tweet hashtags](./screenshots/S2.png)
-![Stacked area chart of tweet hashtags](./screenshots/S3.png)
+![Bar chart of tweet tweet hashtags](./screenshots/s1.png)
+![Stacked area chart of tweet hashtags](./screenshots/s2.png)
+![Stacked area chart of tweet hashtags](./screenshots/s3.png)
